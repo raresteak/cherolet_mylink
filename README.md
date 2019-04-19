@@ -44,7 +44,10 @@ Note: screenshots are on a Linux platform.  Windows users will use their normal 
 15. Click start.
 16. After file conversion copy file to USB drive for vehicle. 
 
-Enjoy
+Note:
+I didn't see any file size limitations.  I was able to play multi gigabyte files without issues.
+
+Enjoy 
 
 ## Troubleshooting
 * Verify all profile settings shown above.
@@ -53,6 +56,8 @@ Enjoy
 * Unplug and plug USB drive while vehicle is running otherwise new media won't be recognized.   There is a GM Technote on this.
 * After plugging in USB drive with fresh content give Infotainment some time to index new content.
 * Videos will only play video while in Park, if you put vehicle in drive the screen will blank and audio only will continue.
+* Use a high quality class 10 USB drive.
+* If you followed procedure and videos still don't play or results in jitters, try a different usb drive.
 * If ripping DVD's, select no disc menu from Open Media, Disc tab.
 
 ![nodiscmenu](images/nodiscmenus.png)
