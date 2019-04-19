@@ -38,7 +38,8 @@ Install vlcplayer, https://www.videolan.org/vlc/,  for your OS playform
 14. Returns to Convert menu, click Browse and select your destination file location and name.  Name the file is .mov extention or mylink won't recognize it as a video file.
 15. Click start.
 16. After file conversion copy file to USB drive for vehicle. 
-  
+
+Enjoy
 
 ## Troubleshooting
 * Verify all profile settings shown above.
@@ -46,6 +47,7 @@ Install vlcplayer, https://www.videolan.org/vlc/,  for your OS playform
 * Make sure ripped file extension is .mov
 * Unplug and plug USB drive while vehicle is running otherwise new media won't be recognized.   There is a GM Technote on this.
 * After plugging in USB drive with fresh content give Infotainment some time to index new content.
+* Videos will only play video while in Park, if you put vehicle in drive the screen will blank and audio only will continue.
 * If ripping DVD's, select no disc menu from Open Media, Disc tab.
 
 ![nodiscmenu](images/nodiscmenus.png)
