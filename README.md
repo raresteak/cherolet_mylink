@@ -14,7 +14,7 @@ Note: screenshots are on a Linux platform.  Windows users will use their normal 
 
 ![media](images/2.png)
 
-4. Select Drop down button arrow at bottm and select convert.
+4. Select Drop down button arrow at bottom and select convert.
 5. Click third button next to Profile, create new profile
 
 ![convert](images/3.png)
@@ -25,7 +25,7 @@ Note: screenshots are on a Linux platform.  Windows users will use their normal 
 ![encap](images/4.png)
 
 8. On Video tab select Video checkbox
-9. Encoding Paremeters sub tab, select 
+9. Encoding Parameters sub tab, select 
 + Codec: MPEG-1
 + Bitrate: 446 kb/s  (increasing bit rate doesn't result in any better quality when viewing on mylink screen, only larger files)
 + Frame Rate: 24.00 fps
@@ -43,14 +43,14 @@ Note: screenshots are on a Linux platform.  Windows users will use their normal 
 
 ![audio_codec](images/7.png)
 
-12. Encoding parameters subtab:
+12. Encoding parameters sub tab:
 + select MPEG Audio
 + Bitrate: 128 kb/s  (larger bit rates will result in larger ripped files)
 + Channels 2
 + Sample Rate: 44100 Hz
 13. Click Save
 14. Returns to Convert menu, click Browse and select your destination file location and name.  
-+ Name the file is .mov extention or mylink won't recognize it as a video file.
++ Name the file is .mov extension or mylink won't recognize it as a video file.
 
 ![final step](images/8.png)
 
