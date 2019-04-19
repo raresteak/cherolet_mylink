@@ -49,11 +49,11 @@ Note: screenshots are on a Linux platform.  Windows users will use their normal 
 + Channels 2
 + Sample Rate: 44100 Hz
 13. Click Save
-
-![audio_encoding](images/8.png)
-
 14. Returns to Convert menu, click Browse and select your destination file location and name.  
 + Name the file is .mov extention or mylink won't recognize it as a video file.
+
+![final step](images/8.png)
+
 15. Click start.
 16. After file conversion copy file to USB drive for vehicle. 
 
