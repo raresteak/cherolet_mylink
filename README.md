@@ -1,4 +1,4 @@
-# How to play videos on the 2014+ chevrolet mylink
+# How to play videos on the 2014+ Chevrolet Mylink
 
 This procedure was tested on 2015 gm mylink.
 
