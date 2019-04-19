@@ -2,6 +2,8 @@
 
 This procedure was tested on 2015 gm mylink.
 
+Install vlcplayer, https://www.videolan.org/vlc/,  for your OS playform 
+
 1. Open vlcplayer
 2. Click Media Menu, select convert/save
 3. Select file menu and locate media file, or select disc and if converting a disc.
@@ -31,9 +33,11 @@ This procedure was tested on 2015 gm mylink.
   
 
 ## Troubleshooting
-* Verify all profile shown above.
+* Verify all profile settings shown above.
 * Turn off looping mode in vlcplayer prior to converting files
 * Make sure ripped file extension is .mov
-* If ripping DVD's, select no disc menu from Open Media, Disc tab.
 * Unplug and plug USB drive while vehicle is running otherwise new media won't be recognized.   There is a GM Technote on this.
 * After plugging in USB drive with fresh content give Infotainment some time to index new content.
+* If ripping DVD's, select no disc menu from Open Media, Disc tab.
+
+![nodiscmenu](images/nodiscmenus.png)
